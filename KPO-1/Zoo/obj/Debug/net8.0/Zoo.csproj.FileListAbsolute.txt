@@ -1,0 +1,11 @@
+C:\Coding\C#\KPO-1\Zoo\bin\Debug\net8.0\Zoo.deps.json
+C:\Coding\C#\KPO-1\Zoo\bin\Debug\net8.0\Zoo.dll
+C:\Coding\C#\KPO-1\Zoo\bin\Debug\net8.0\Zoo.pdb
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfoInputs.cache
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.AssemblyInfo.cs
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.dll
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\refint\Zoo.dll
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\Zoo.pdb
+C:\Coding\C#\KPO-1\Zoo\obj\Debug\net8.0\ref\Zoo.dll
