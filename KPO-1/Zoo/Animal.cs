@@ -16,6 +16,11 @@ namespace Zoo
             Food = food;
             Kindness = kindness;
         }
+
+        /// <summary>
+        /// Возвращает вид животного.
+        /// </summary>
+        /// <returns>Вид животного.</returns>
         public string GetAnimalType()
         {
             return "Animal";

@@ -10,9 +10,5 @@ namespace Zoo
     {
         public Tiger(int food, int kindness) : base(food, kindness) { }
 
-        public override string ToString()
-        {
-            return "Tiger";
-        }
     }
 }

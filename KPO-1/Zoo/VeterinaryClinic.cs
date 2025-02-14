@@ -1,5 +1,5 @@
 ﻿
-namespace VeterinaryClinic
+namespace Zoo
 {
     public class VeterinaryClinic : IVeterinaryClinic
     {

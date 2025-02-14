@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
+    /// <summary>
+    /// Интерфейс типа IInventory, предметы.
+    /// </summary>
     public interface IInventory
     {
         int Number {  get; set; }

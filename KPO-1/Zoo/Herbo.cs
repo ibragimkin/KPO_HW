@@ -9,10 +9,11 @@ namespace Zoo
     public class Herbo : Animal
     {
         public Herbo(int food, int kindness) : base(food, kindness) { }
-        public override string ToString()
-        {
-            return "Herbo";
-        }
+
+        /// <summary>
+        /// Возвращает вид животного.
+        /// </summary>
+        /// <returns>Вид животного.</returns>
         public new string GetAnimalType()
         {
             return "Herbo";

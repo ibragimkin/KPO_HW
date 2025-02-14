@@ -9,6 +9,11 @@ namespace KPO_1
 {
     public class Methods
     {
+
+        /// <summary>
+        /// Получает от пользователя предмет.
+        /// </summary>
+        /// <returns>Предмет.</returns>
         public static Item GetItem()
         {
             int itemType = Menu.ConsoleMenu("Выберите вид животного", ZooClass.s_ItemsList);
@@ -30,6 +35,11 @@ namespace KPO_1
             return item;
         }
 
+
+        /// <summary>
+        /// Получает от пользователя данные животного.
+        /// </summary>
+        /// <returns>Объекто животного</returns>
         public static Animal GetAnimal()
         {
             int animalType = Menu.ConsoleMenu("Выберите вид животного", ZooClass.s_AnimalsList);

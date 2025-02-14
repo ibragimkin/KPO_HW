@@ -10,10 +10,10 @@ namespace Zoo
     {
         public Predator(int food, int kindness) : base(food, kindness) { }
 
-        public override string ToString()
-        {
-            return "Predator";
-        }
+        /// <summary>
+        /// Возвращает вид животного.
+        /// </summary>
+        /// <returns>Вид животного.</returns>
         public new string GetAnimalType()
         {
             return "Predator";

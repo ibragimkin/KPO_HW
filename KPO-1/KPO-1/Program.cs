@@ -8,7 +8,8 @@ namespace KPO_1
         {
 
             Welcome();
-            ZooClass zoo = new ZooClass();
+            IVeterinaryClinic clinic = new VeterinaryClinic();
+            ZooClass zoo = new ZooClass(clinic);
             while (true)
             {
                 int action = Menu.ConsoleMenu("Выберите действие", new string[] { "1. Добавить животное.", "2. Добавить предмет.", "3. Убрать животное", "4. Убрать предмет.", "5. Общий расход еды.", "6. Список животных, разрешённых в контактном зоопарке.", "7. Выход" });
