@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\filestoringservice\\filestoringservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\filestoringservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B8F47D8-D2B0-482B-8A44-417C26B6FDC6}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:33:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileStoringService.http",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\FileStoringService.http",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.http",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\FileStoringService.http",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-26T23:33:40.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileStoringService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T23:33:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileStoringService\\Dockerfile",
+              "RelativeToolTip": "FileStoringService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T23:32:52.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

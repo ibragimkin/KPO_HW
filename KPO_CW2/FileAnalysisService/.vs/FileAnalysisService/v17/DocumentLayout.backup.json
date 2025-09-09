@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99A7BC2-C1CB-4014-ADCC-624D4477BA0D}|Domain\\Domain.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\domain\\exceptions\\analysisexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99A7BC2-C1CB-4014-ADCC-624D4477BA0D}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\analysisexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99A7BC2-C1CB-4014-ADCC-624D4477BA0D}|Domain\\Domain.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\domain\\entities\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99A7BC2-C1CB-4014-ADCC-624D4477BA0D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\infrastructure\\configuration\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\infrastructure\\services\\fileretrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\fileretrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\infrastructure\\repositories\\analysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\analysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\infrastructure\\persistence\\analysiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\analysiscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\application\\usecases\\analyzefileusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|solutionrelative:application\\usecases\\analyzefileusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\application\\dtos\\fileanalysisresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|solutionrelative:application\\dtos\\fileanalysisresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\application\\interfaces\\ianalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ianalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\application\\interfaces\\ifileretrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ifileretrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD2FDF86-6413-43B3-964D-C0552F5B2339}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\fileanalysisservice\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D40A6F4-4009-4944-9832-71B597336E6A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FileAnalysisResult.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "RelativeToolTip": "Domain\\Entities\\FileAnalysisResult.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalysisException.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Domain\\Exceptions\\AnalysisException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\AnalysisException.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Domain\\Exceptions\\AnalysisException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\AnalysisException.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:36.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureModule.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Configuration\\InfrastructureModule.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\InfrastructureModule.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Configuration\\InfrastructureModule.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\InfrastructureModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:55:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileRetrievalService.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Services\\FileRetrievalService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\FileRetrievalService.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Services\\FileRetrievalService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\FileRetrievalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalysisRepository.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Repositories\\AnalysisRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AnalysisRepository.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Repositories\\AnalysisRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AnalysisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnalysisContext.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Persistence\\AnalysisContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AnalysisContext.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Persistence\\AnalysisContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AnalysisContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:45.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalyzeFileUseCase.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\UseCases\\AnalyzeFileUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AnalyzeFileUseCase.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\UseCases\\AnalyzeFileUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\AnalyzeFileUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:54:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileAnalysisResultDto.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\DTOs\\FileAnalysisResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FileAnalysisResultDto.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\DTOs\\FileAnalysisResultDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\FileAnalysisResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:53:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAnalysisRepository.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Interfaces\\IAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAnalysisRepository.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Interfaces\\IAnalysisRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAnalysisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:53:41.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileRetrievalService.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Interfaces\\IFileRetrievalService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IFileRetrievalService.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Interfaces\\IFileRetrievalService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IFileRetrievalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T22:53:33.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T22:51:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\FileAnalysisService\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T22:50:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

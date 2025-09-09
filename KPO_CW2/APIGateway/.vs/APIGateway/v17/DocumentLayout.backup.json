@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\apigateway\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|c:\\coding\\c#\\kpo_hw\\kpo_cw2\\apigateway\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C525ECC9-9BAC-49EB-B8BB-442471F8D25B}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\appsettings.json",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\appsettings.json",
+              "RelativeToolTip": "APIGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T12:33:31.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIGateway.csproj",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T12:31:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "APIGateway\\Dockerfile",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\Dockerfile",
+              "RelativeToolTip": "APIGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T12:28:13.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "C:\\Coding\\C#\\KPO_HW\\KPO_CW2\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:27:34.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

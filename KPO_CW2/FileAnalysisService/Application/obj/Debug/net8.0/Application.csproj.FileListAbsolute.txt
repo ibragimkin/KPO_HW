@@ -1,0 +1,16 @@
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\bin\Debug\net8.0\Application.deps.json
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\bin\Debug\net8.0\Application.dll
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\bin\Debug\net8.0\Application.pdb
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\bin\Debug\net8.0\Domain.dll
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\bin\Debug\net8.0\Domain.pdb
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.dll
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\Application.pdb
+C:\Coding\C#\KPO_HW\KPO_CW2\FileAnalysisService\Application\obj\Debug\net8.0\ref\Application.dll
