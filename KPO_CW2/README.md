@@ -5,7 +5,7 @@
 * **Entity Framework Core**
 * **OpenAPI / Swagger**
 * **Docker / Docker Compose**
-* **PostgreSQL / SQLite (по выбору)**
+* **PostgreSQL**
 
 ## Архитектура системы
 Чистая архитектура.
