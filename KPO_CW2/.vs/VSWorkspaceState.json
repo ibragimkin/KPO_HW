@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FileAnalysisService",
+    "\\FileAnalysisService\\Application",
+    "\\FileAnalysisService\\Application\\DTOs",
+    "\\FileAnalysisService\\Domain",
+    "\\FileAnalysisService\\Infrastructure",
+    "\\FileAnalysisService\\Infrastructure\\Migrations",
+    "\\FileAnalysisService\\Infrastructure\\Persistence",
+    "\\FileAnalysisService\\Infrastructure\\Repositories",
+    "\\FileAnalysisService\\Infrastructure\\Services"
+  ],
+  "SelectedNode": "\\FileStoringService\\Application\\DTOs",
+  "PreviewInSolutionExplorer": false
+}
